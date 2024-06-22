@@ -1,0 +1,22 @@
+.go-to {
+  cursor: pointer;
+}
+.go-to:hover {
+  color: blue;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(65, 65, 216);
+  color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.header img {
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 20px;
+  cursor: pointer;
+}
